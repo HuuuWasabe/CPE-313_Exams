@@ -1,2 +1,2 @@
-# CPE-313_Exams
-repo for exams in deep learning
+# CPE-313_emotion_detection
+repo for Assignment 4.1
