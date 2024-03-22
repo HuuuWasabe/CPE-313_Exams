@@ -46,5 +46,5 @@ def detect(folder_path):
 
 if __name__ == "__main__":
     ## Specify the folder path where you want to save detected faces:
-    folder_path = r'D:\vscodeProjects\Data\captured\recog\SanGabriel'  # Replace with your actual folder path
+    folder_path = r'D:\vscodeProjects\Data\captured\emotion\sad'  # Replace with your actual folder path
     detect(folder_path)
